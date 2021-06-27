@@ -19,3 +19,15 @@ The distance from a model to its I-projection can be computed using the *Fairnes
 
 Two fairness notions are implemented in *fairness_notions.py*: 'DP' for Demographic Parity and 'EO' for Equalised Opportunity.
 
+## Citation
+If you found our work useful in your own project, please cite our paper:
+
+    @article{buyl2021kl,
+      title={The KL-Divergence between a Graph Model and its Fair I-Projection as a Fairness Regularizer},
+      author={Buyl, Maarten and De Bie, Tijl},
+      journal={arXiv preprint arXiv:2103.01846},
+      year={2021}
+    }
+
+The paper was accepted at ECML-PKDD 2021. As soon as the proceedings are published, we will update the reference.
+
