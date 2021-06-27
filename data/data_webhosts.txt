@@ -1,0 +1,7 @@
+Facebook: https://snap.stanford.edu/data/egonets-Facebook.html
+
+ML100k: https://grouplens.org/datasets/movielens/100k/
+
+Polblogs: http://www-personal.umich.edu/\~mejn/netdata/
+
+The code expects each dataset to have the structure ./data/<DATASET_NAME>/<FILES>.
