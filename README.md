@@ -31,3 +31,5 @@ If you found our work useful in your own project, please cite our paper:
 
 The paper was accepted at ECML-PKDD 2021. As soon as the proceedings are published, we will update the reference.
 
+## Maintenance
+Further development may be done in the future and bugs will be fixed. If you have any questions or concerns, feel free to report it here or send an email to 'maarten.buyl@ugent.be'.
