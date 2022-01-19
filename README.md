@@ -22,7 +22,7 @@ Two fairness notions are implemented in *fairness_notions.py*: 'DP' for Demograp
 ## Citation
 If you found our work useful in your own project, please cite our paper:
 
-    @article{buyl2021kl,
+    @inproceedings{buyl2021kl,
         author={Buyl, Maarten and De Bie, Tijl},
         title={The KL-Divergence Between a Graph Model and its Fair I-Projection as a Fairness Regularizer},
         booktitle={Machine Learning and Knowledge Discovery in Databases},
