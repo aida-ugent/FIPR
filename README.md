@@ -1,5 +1,5 @@
 # Fair I-Projection Regularizer
-Experiment code for the paper "The KL-Divergence between a Graph Model and its Fair I-Projection as a Fairness Regularizer"
+Experiment code for the paper "The KL-Divergence between a Graph Model and its Fair I-Projection as a Fairness Regularizer", published at ECML-PKDD 2021.
 
 ## Running the code
 Running *main_all.py* executes the pipeline as configured by *config.py*.
@@ -23,13 +23,13 @@ Two fairness notions are implemented in *fairness_notions.py*: 'DP' for Demograp
 If you found our work useful in your own project, please cite our paper:
 
     @article{buyl2021kl,
-      title={The KL-Divergence between a Graph Model and its Fair I-Projection as a Fairness Regularizer},
-      author={Buyl, Maarten and De Bie, Tijl},
-      journal={arXiv preprint arXiv:2103.01846},
-      year={2021}
+        author={Buyl, Maarten and De Bie, Tijl},
+        title={The KL-Divergence Between a Graph Model and its Fair I-Projection as a Fairness Regularizer},
+        booktitle={Machine Learning and Knowledge Discovery in Databases},
+        year={2021},
+        publisher={Springer International Publishing},
+        pages={351--366}
     }
-
-The paper was accepted at ECML-PKDD 2021. As soon as the proceedings are published, we will update the reference.
 
 ## Maintenance
 Further development may be done in the future and bugs will be fixed. If you have any questions or concerns, feel free to report it here or send an email to 'maarten.buyl@ugent.be'.
